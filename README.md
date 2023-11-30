@@ -4,7 +4,7 @@
 This project implements a Learning Management System (LMS) using Spring Boot microservices architecture. The system allows users to manage courses, lessons, quizzes, assignments, and user enrollments. Each microservice focuses on specific functionalities to ensure modularity and scalability.
 
 ## Features
-- User Service: Manages user authentication, registration, and profile management.
+* User Service: Manages user authentication, registration, and profile management.
 - Course Service: Handles CRUD operations for courses, enrollment, and course-specific actions.
 - Lesson Service: Manages lessons within courses.
 - Enrollment Service: Handles student enrollment in courses and completion tracking.
